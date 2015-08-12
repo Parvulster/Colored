@@ -1,0 +1,16 @@
+[
+{
+  "modid": "clr",
+  "name": "Colored",
+  "description": "Colorful blocks a plenty.",
+  "version": "1.0.0",
+  "mcversion": "1.8",
+  "url": "http://parvulster.tk/",
+  "updateUrl": "",
+  "authorList": ["Parvulster"],
+  "credits": "Me, myself, and I.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
